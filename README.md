@@ -90,10 +90,6 @@ source: `inference.ipynb`
     generate_mels_by_style_tokens(text)
     ```
 
-## Pre-trained Model
-- tacotron2-gst: `./models/checkpoint_288000`
-- WaveGlow: `./models/waveglow_130000`
-
 ## Samples
 - `./samples/tokens`: condition on style tokens
 - `./samples/refs`: condition on reference audio
